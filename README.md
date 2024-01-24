@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Projeto em React JS para Gerar Números Aleatórios
+
+Página web para geração de numeros aleatórios
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
